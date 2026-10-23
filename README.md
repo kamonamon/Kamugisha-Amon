@@ -1,4 +1,5 @@
 Kamugisha Amon (Kamon)
+
 Hi, I'm Kamon, a passionate software developer, AI & machine learning undergraduate, and tech generalist based in Wakiso District, Uganda. I specialize in building responsive web applications, working with backend infrastructure, and configuring Android firmware systems.
 🚀 Skills & Technical Expertise
  * Programming Languages & Frameworks: Python, PHP, JavaScript, Laravel, Node.js, HTML5, CSS3, Tailwind CSS.
